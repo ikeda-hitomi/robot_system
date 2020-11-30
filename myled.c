@@ -4,9 +4,6 @@
 #include<linux/device.h>
 #include<linux/uaccess.h>
 #include<linux/io.h>
-#include<linux/timer.h>
-#include<asm/delay.h>
-#include<linux/timer.h>
 #include<linux/delay.h>
 
 MODULE_AUTHOR("Hitomi Ikeda and Ryuichi Ueda");
