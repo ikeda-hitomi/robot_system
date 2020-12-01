@@ -12,11 +12,11 @@ Ubuntu18.04
 ## 使用する道具
 - ブレッドボード
 - LED
-- 抵抗(220Ω)
+- 抵抗(220Ω)
 - ジャンパ線(オス~メス)
 
 ## 回路
-GPIO 25(22番ピン)にLEDのアノードを繋ぎ、GND(39番ピン)にLEDのかカソードを繋ぐ。
+GPIO 25(22番ピン)にLEDのアノードを繋ぎ、GND(39番ピン)にLEDのカソードを繋ぐ。
 ## 実行方法
 ```
 $ git clone https://github.com/ikeda-hitomi/robot_system.git
