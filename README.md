@@ -33,7 +33,8 @@ $ sudo rmmod myled
 $ echo 1 > /dev/myled0
 $ echo 0 > /dev/myled0
 ```
-LEDはecho 1の時に点滅し、echo 0の時に消灯する。
+LEDはecho 1の時に点滅し、echo 0の時に消灯する。   
+動作動画:https://youtu.be/HFTvdFF50D8
 
 ## ライセンス
 このリポジトリはGPLv3が付与されています。
